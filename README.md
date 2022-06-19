@@ -1,5 +1,5 @@
 ### TODO
 
-[] Week1 assigment: multi
-[] Week2 assigment: reg
+- [ ] Week2 assigment: multi
+- [ ] Week3 assigment: reg
 
